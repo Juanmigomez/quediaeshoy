@@ -11,3 +11,5 @@ hoy = date.today()
 # La imprimimos con formato
 print(hoy.strftime("Hola, hoy es %A %d de %B de %Y"))
 
+# TODO: Incorporar el santoral e imprimir el/los santos del dia
+
